@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "libcurl"
-  s.version      = "0.1"
+  s.version      = "0.1.1"
   s.summary      = "Podspec wrapper around a built version lib curl"
   s.description      = <<-DESC
 						Build from http://seiryu.home.comcast.net/~seiryu/libcurl-ios.html
